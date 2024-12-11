@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GeneratedGPX" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Sample GPX Route</name>
+    <desc>A test GPX file for simulating location changes</desc>
+    <author>
+      <name>Your Name</name>
+    </author>
+  </metadata>
+
+  <!-- Waypoints -->
+  <wpt lat="37.7749" lon="-122.4194">
+    <name>San Francisco</name>
+  </wpt>
+  <wpt lat="36.7783" lon="-119.4179">
+    <name>Central California</name>
+  </wpt>
+  <wpt lat="34.0522" lon="-118.2437">
+    <name>Los Angeles</name>
+  </wpt>
+
+  <!-- Route -->
+  <rte>
+    <name>California Journey</name>
+    <rtept lat="37.7749" lon="-122.4194">
+      <name>San Francisco</name>
+    </rtept>
+    <rtept lat="36.7783" lon="-119.4179">
+      <name>Central California</name>
+    </rtept>
+    <rtept lat="34.0522" lon="-118.2437">
+      <name>Los Angeles</name>
+    </rtept>
+  </rte>
+</gpx>
